@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425495354794",
+    "project_id": "gentle-voltage-316803",
+    "storage_bucket": "gentle-voltage-316803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425495354794:android:4f189ea6ff1c15c9d19fd3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_and_firebase_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425495354794-gd3uk19s6ngtfsd0g6oul92ac3u871fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARXofHTDMO453_B9kqfbMN6MnWKsMEw3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425495354794-gd3uk19s6ngtfsd0g6oul92ac3u871fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
